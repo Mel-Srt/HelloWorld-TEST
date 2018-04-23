@@ -23,6 +23,7 @@ public class HelloWorld {
         Scanner sc = new Scanner (System.in);
         System.out.println("Saisir un caractère pour terminer le programme: ");
         String str = sc.nextLine();
+        //Test : ajout d'un commentaire
     }
     
 }
